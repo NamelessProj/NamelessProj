@@ -23,6 +23,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 </p>
 
+<p align="center"><img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=7830&api_domain=hackatime.hackclub.com&theme=github_dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" /></p>
+
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=namelessproj&theme=dark&locale=en" alt="namelessproj" /></p>
 
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=namelessproj&show_icons=true&locale=en&layout=compact&theme=dark" alt="namelessproj" /></p>
