@@ -1,32 +1,73 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=namelessproj&label=Profile%20views&color=0e75b6&style=flat" alt="namelessproj" /> </p>
-<h1 align="center">Hi 👋, I'm Kevin</h1>
-<h3 align="center">A normal human beeing from Switzerland :switzerland:.</h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namelessproj" alt="namelessproj" /></a> </p>
+![count](https://komarev.com/ghpvc/?username=namelessproj&label=Profile%20views&color=0e75b6&style=flat)
+# Hi 👋, I'm Kevin
+A normal human beeing from Switzerland :switzerland:.
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</p>
+</div>
 
-<p align="center"><img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=7830&api_domain=hackatime.hackclub.com&theme=github_dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=namelessproj&theme=dark&locale=en" alt="namelessproj" /></p>
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=namelessproj&show_icons=true&locale=en&layout=compact&theme=dark" alt="namelessproj" /></p>
+<div align="center">
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=namelessproj&show_icons=true&locale=en&theme=dark" alt="namelessproj" /></p>
+![trophies](https://github-profile-trophy.vercel.app/?username=namelessproj)
+
+</div>
+
+
+
+<div align="center">
+
+## Languages
+
+![HTML5](https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Less](https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=less&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=symfony&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+</div>
+
+
+
+<div align="center">
+
+## Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgeSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+  
+</div>
+
+
+
+<div align="center">
+
+## Tools
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![JetBrains](https://img.shields.io/badge/JetBrains-black?style=for-the-badge&logo=jetbrains&logoColor=white)
+
+</div>
+
+
+
+<div align="center">
+
+## Some Stats
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=namelessproj&show_icons=true&locale=en&layout=compact&theme=dark)
+![Hackatime stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=7830&api_domain=hackatime.hackclub.com&theme=github_dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=namelessproj&theme=dark&locale=en)
+![Github stats](https://github-readme-stats.vercel.app/api?username=namelessproj&show_icons=true&locale=en&theme=dark)
+  
+</div>
