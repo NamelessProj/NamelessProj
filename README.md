@@ -75,6 +75,7 @@ A normal human beeing from Switzerland :switzerland:.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![JetBrains](https://img.shields.io/badge/JetBrains-black?style=for-the-badge&logo=jetbrains&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
+![Supabase](https://img.shields.io/badge/Supabase-black?style=for-the-badge&logo=supabase)
 
 </div>
 
