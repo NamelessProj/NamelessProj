@@ -30,6 +30,7 @@ A normal human beeing from Switzerland :switzerland:.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C Sharp](https://img.shields.io/badge/C%23-9c75d5?style=for-the-badge)
+![LaTeX](https://img.shields.io/badge/LaTeX-%23008080?style=for-the-badge&logo=LaTeX)
 
 </div>
 
